@@ -131,7 +131,6 @@ JupyterLab uses a shared copyright model that enables all contributors to mainta
 copyright on their contributions. All code is licensed under the terms of the revised [BSD license](https://github.com/jupyterlab/jupyterlab/blob/main/LICENSE).
 
 ### Team
-
 JupyterLab is part of [Project Jupyter](https://jupyter.org/) and is developed by an open community. The maintenance team is assisted by a much larger group of contributors to JupyterLab and Project Jupyter as a whole.
 
 JupyterLab's current maintainers are listed in alphabetical order, with affiliation, and main areas of contribution:
